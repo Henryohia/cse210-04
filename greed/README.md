@@ -35,3 +35,6 @@ root                    (project root folder)
 ---
 * # TODO: Add your name and email here
 Henry Ohia (henryohia197@gmail.com)
+David Ogbaudu
+Karabo Mamabolo
+Miguel Silva
